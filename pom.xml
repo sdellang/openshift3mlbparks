@@ -6,16 +6,6 @@
 	<packaging>war</packaging>
 	<version>1.0</version>
 	<name>mlbparks</name>
-		<proxies>
-		   <proxy>
-		      <id>tiproxy</id>
-		      <active>true</active>
-		      <protocol>http</protocol>
-		      <host>163.162.61.15</host>
-		      <port>8080</port>
-		      <nonProxyHosts>*.cloudapp.local</nonProxyHosts>
-		    </proxy>
-  		</proxies>
 	<repositories>
 		<repository>
 			<id>eap</id>
