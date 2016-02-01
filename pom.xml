@@ -6,7 +6,6 @@
 	<packaging>war</packaging>
 	<version>1.0</version>
 	<name>mlbparks</name>
-	<settings>
 		<proxies>
 		   <proxy>
 		      <id>tiproxy</id>
@@ -17,7 +16,6 @@
 		      <nonProxyHosts>*.cloudapp.local</nonProxyHosts>
 		    </proxy>
   		</proxies>
-	</settings>
 	<repositories>
 		<repository>
 			<id>eap</id>
