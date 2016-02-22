@@ -6,7 +6,7 @@
             <protocol>http</protocol>
             <host>163.162.61.15</host>
             <port>8080</port>
-            <nonProxyHosts>master.cloudapp.local,172.30.123.45,163.162.61.164,10.10.10.100,openshift-master.hdc.cselt.it,openshift-node-1.hdc.cselt.it,openshift-node-2.hdc.cselt.it</nonProxyHosts>
+            <nonProxyHosts>master.cloudapp.local,172.30.123.45,163.162.61.164,10.10.10.100,172.30.247.218,openshift-master.hdc.cselt.it,openshift-node-1.hdc.cselt.it,openshift-node-2.hdc.cselt.it</nonProxyHosts>
         </proxy>
     </proxies>
     <profiles>
