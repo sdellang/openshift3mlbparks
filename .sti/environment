@@ -1,4 +1,4 @@
-NO_PROXY=master.cloudapp.local,172.30.123.45,163.162.61.164,10.10.10.100,172.30.247.218,openshift-master.hdc.cselt.it,openshift-node-1.hdc.cselt.it,openshift-node-2.hdc.cselt.it
+NO_PROXY=master.cloudapp.local,172.30.123.45,163.162.61.164,10.10.10.100,172.30.247.218,163.162.61.163,172.30.0.1,openshift-master.hdc.cselt.it,openshift-node-1.hdc.cselt.it,openshift-node-2.hdc.cselt.it
 HTTP_PROXY=http://163.162.61.15:8080/
 HTTPS_PROXY=https://163.162.61.15:8080/
 MAVEN_ARGS=package -Popenshift -DskipTests -Dcom.redhat.xpaas.repo.redhatga -ssettings.xml
