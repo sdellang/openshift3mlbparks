@@ -79,8 +79,6 @@
                     "git": {
                         "uri": "${SOURCE_REPOSITORY_URL}",
                         "ref": "${SOURCE_REPOSITORY_REF}"
-                        "httpProxy" : "http://163.162.61.15:8080"
-                        "httpsProxy" : "http://163.162.61.15:8080"
                     },
                     "contextDir": "${CONTEXT_DIR}"
                 },

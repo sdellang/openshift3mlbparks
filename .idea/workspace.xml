@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="634878a3-5011-4ba3-9c37-862a25f59356" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.sti/environment" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/settings.xml" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/org/openshift/mlbparks/mongo/DBConnection.java" afterPath="$PROJECT_DIR$/src/main/java/org/openshift/mlbparks/mongo/DBConnection.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mlbparks-template.json" afterPath="$PROJECT_DIR$/mlbparks-template.json" />
     </list>
     <ignored path="mlbparks.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -72,10 +69,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DBConnection.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="DBConnection.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/org/openshift/mlbparks/mongo/DBConnection.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5816733">
+            <state vertical-scroll-proportion="0.0">
               <caret line="74" column="108" selection-start-line="74" selection-start-column="108" selection-end-line="74" selection-end-column="108" />
               <folding />
             </state>
@@ -92,11 +89,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="mlbparks-template.json" pinned="false" current-in-tab="false">
+      <file leaf-file-name="mlbparks-template.json" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/mlbparks-template.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.33744857">
+              <caret line="80" column="57" selection-start-line="80" selection-start-column="57" selection-end-line="80" selection-end-column="57" />
               <folding />
             </state>
           </provider>
@@ -118,6 +115,7 @@
         <option value="$PROJECT_DIR$/settings.xml" />
         <option value="$PROJECT_DIR$/.sti/environment" />
         <option value="$PROJECT_DIR$/src/main/java/org/openshift/mlbparks/mongo/DBConnection.java" />
+        <option value="$PROJECT_DIR$/mlbparks-template.json" />
       </list>
     </option>
   </component>
@@ -698,18 +696,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mlbparks-template.json">
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/openshift/mlbparks/mongo/DBConnection.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="74" column="108" selection-start-line="74" selection-start-column="108" selection-end-line="74" selection-end-column="108" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/openshift/mlbparks/mongo/DBConnection.java">
+    <entry file="file://$PROJECT_DIR$/mlbparks-template.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5816733">
-          <caret line="74" column="108" selection-start-line="74" selection-start-column="108" selection-end-line="74" selection-end-column="108" />
+        <state vertical-scroll-proportion="0.33744857">
+          <caret line="80" column="57" selection-start-line="80" selection-start-column="57" selection-end-line="80" selection-end-column="57" />
           <folding />
         </state>
       </provider>
