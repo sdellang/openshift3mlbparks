@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="634878a3-5011-4ba3-9c37-862a25f59356" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mlbparks-template.json" afterPath="$PROJECT_DIR$/mlbparks-template.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/index.html" afterPath="$PROJECT_DIR$/src/main/webapp/index.html" />
     </list>
     <ignored path="mlbparks.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -89,11 +89,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="mlbparks-template.json" pinned="false" current-in-tab="true">
+      <file leaf-file-name="mlbparks-template.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mlbparks-template.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.33744857">
-              <caret line="80" column="57" selection-start-line="80" selection-start-column="57" selection-end-line="80" selection-end-column="57" />
+            <state vertical-scroll-proportion="-4.7058825">
+              <caret line="16" column="26" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.32098764">
+              <caret line="33" column="55" selection-start-line="33" selection-start-column="55" selection-end-line="33" selection-end-column="55" />
               <folding />
             </state>
           </provider>
@@ -116,6 +126,7 @@
         <option value="$PROJECT_DIR$/.sti/environment" />
         <option value="$PROJECT_DIR$/src/main/java/org/openshift/mlbparks/mongo/DBConnection.java" />
         <option value="$PROJECT_DIR$/mlbparks-template.json" />
+        <option value="$PROJECT_DIR$/src/main/webapp/index.html" />
       </list>
     </option>
   </component>
@@ -195,6 +206,58 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mlbparks" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="openshift3mlbparks" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WEB-INF" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mlbparks" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="openshift3mlbparks" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -706,8 +769,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/mlbparks-template.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33744857">
-          <caret line="80" column="57" selection-start-line="80" selection-start-column="57" selection-end-line="80" selection-end-column="57" />
+        <state vertical-scroll-proportion="-4.7058825">
+          <caret line="16" column="26" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.32098764">
+          <caret line="33" column="55" selection-start-line="33" selection-start-column="55" selection-end-line="33" selection-end-column="55" />
           <folding />
         </state>
       </provider>
